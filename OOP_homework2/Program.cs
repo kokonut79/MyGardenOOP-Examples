@@ -72,6 +72,7 @@ namespace OOP_homework2
                         inputArr = Console.ReadLine().Split(" ");
                         break;
 
+                    default: return 0;     
                 }
                 
 
